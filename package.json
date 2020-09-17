@@ -1,0 +1,22 @@
+{
+  "name": "clockinprogram",
+  "version": "1.0.0",
+  "description": "Clock in program",
+  "main": "server.js",
+  "scripts": {
+    "server": "nodemon server.js"
+  },
+  "author": "Nicholas Drummonds",
+  "license": "MIT",
+  "dependencies": {
+    "config": "^3.3.1",
+    "exceljs": "^4.1.1",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "moment": "^2.28.0",
+    "mongoose": "^5.10.5"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}

@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://drumms22:Sanders20@timeclock.n6jsb.mongodb.net/<dbname>?retryWrites=true&w=majority",
+  "jwtSecret": "timeclocksecret"
+}
